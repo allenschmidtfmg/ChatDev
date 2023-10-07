@@ -1,0 +1,30 @@
+Task:
+Monster Invasion - Product Requirements Document;Overview;Monster Invasion is an immersive idle clicker game set in a vibrant fantasy world engulfed in turmoil. Stringed together by intricate lore and engaging gameplay mechanics, players take on the role of a determined guardian fighting against waves of invading monsters. With ever-increasing challenges, diverse realms to explore, and a customizable arsenal of weapons, shields, and spells, the game keeps players captivated for hours on end.;;Features;Compelling Narrative;Introduce a strong lore behind the monster invasion, providing context and immersing players in the story.;Develop unique backstories for each realm, tying them to the invading monsters.;Establish a narrative hook to make players emotionally invested in restoring peace to each realm.;Varied and Tactics-Rich Encounters;Expand the range of the invading monsters, including unique characteristics, abilities, and appearances.;Each monster possesses a distinctive play asymmetry, with specific strengths and weaknesses.;Encourage tactical encounters, making Save typed paragraphs for indicationg close revise engaging players to strategize utilizing the right weapons, shields, and spells to optimize their chances of victory.;Visual Upgrade Progression;Enhance the visual representation of the upgrade system, showcasing the player's weapons and shields as they improve.;Implement distinct visual cues to indicate significant milestones or full upgrades on gear.;Add a visually captivating prestige system that unlocks additional power, unique properties, or special effects for fully upgraded items.;Engaging Whilst Idle;Introduce optional always-on mini-games to keep the world vibrant even when players are away from the game.;Include resource-gathering mechanics or simple interactive elements that contribute to overall progression.;Balance these mechanics appropriately to create a player-friendly and rewarding idle experience.;Leaderboards and Achievements;Feature robust leaderboard functionalities to showcase players' progress in comparison to others worldwide.;Define achievements that encourage mastery, progression, and exploration within the game.;Provide opportunities for player expression and personalization through unique achievements tied to intricate gameplay milestones.;Periodic Events and Epic Boss Battles;Establish regular gameplay loops that organically lead up to exciting events or major boss encounters.;Introduce special quests that grant unique rewards and add depth to gameplay progression.;Design epic battles with challenging mechanics to test players' skills and strategy.;User Interface (UI);Create a visually appealing UI that aligns with the captivating fantasy world aesthetic.;Present clear and intuitive navigation to smoothly guide players through menus, realms, and various gameplay activities.;Optimized user interface for both stationary platforms and mobile devices, ensuring outstanding gameplay experience on all supported devices.;Technical Requirements;Develop the game in a cross-platform environment to support a wide range of devices.;Employ responsive design to adapt the game interface to different screen sizes, resolutions, and orientations.;Ensure efficient memory management, battery optimization, and performance optimization to deliver smooth gameplay experiences.;Conclusion;Monster Invasion unites captivating narrative elements with engaging gameplay mechanics to deliver an exciting and immersive experience for players seeking epic monster battles with a touch of idle gameplay. Building upon the player feedback and suggestions, this PRD sets the stage for developing an exceptional game that sparks emotions, encourages exploration, and keeps players returning for more thrilling monster-slaying adventures.
+
+Config:
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.git_management: False
+ChatEnvConfig.gui_design: True
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+application
+
+Ideas:
+
+
+Language:
+ Python
+
+Code_Version:
+4.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+
